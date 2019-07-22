@@ -2,13 +2,35 @@ Adobe illustrator 2019
 
 #기본 단축키
 1)파일 단축키
-Ctrl+N
-Ctrl+O
-Ctrl+W
-Ctrl+S
-Ctrl+Shift+S
+Ctrl+N 새로 만들기
+Ctrl+O 파일 열기
+Ctrl+W 파일 닫기
+Ctrl+S 파일 저장
+Ctrl+Shift+S 다른이름저장
 
 2)편집 단축키
 #Space+마우스끌기 : 화면움직임
 #Alt+마우스휠 : 
 #Ctrl+마우스휠 : 
+
+Ctrl+Z 실행취소 되돌리기
+Ctrl+C 복사 Ctrl+V 붙여넣기
+Ctrl+Shift+v 다시실행
+
+3)오브젝트 단축키_화면 단축키
+Ctrl+A 전체선택
+Ctrl+G 그룹만들기
+Ctrl+Shift+S 그룹풀기
+Ctrl+ + 화면확대
+Ctrl+ - 화면축소
+Ctrl+ 0 하면에 맞추기
+
+4)오브젝트 이동 단축키
+Ctrl+] 앞으로
+Ctrl+[ 뒤로
+Ctrl+Shift+] 맨앞으로
+Ctrl+Shift+[ 맨뒤로
+
+#도형 그리기
+Alt+드래그 : 중심으로 그리기
+Shift+드래그 : 정비율 그리기
